@@ -36,7 +36,7 @@ header nav ul {
     list-style: none;
 }
 header nav ul li a {
-    padding: 10px 15px;
+    margin: 0 30px;
     font-weight: lighter;
     font-size: 1.55vw;
 }
